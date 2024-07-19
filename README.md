@@ -9,8 +9,7 @@ A Flutter application featuring a custom pull-to-refresh layout, colorful theme,
 - Clean and organized project structure
 
 ## 📸 Screenshots
-### Home Screen
-![Home Screen](/pull-to_refresh.gif)
+<img src="screenshots/pull-to_refresh.gif" alt="Pull To Refresh" height="400"/>
 
 ## 🛠️ Technologies Used
 - **Frontend**: Flutter, Dart
