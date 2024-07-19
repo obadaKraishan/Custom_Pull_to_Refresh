@@ -20,8 +20,8 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/obadaKraishan/custom_pull_to_refresh.git
-cd custom_pull_to_refresh
+git clone https://github.com/obadaKraishan/Custom_Pull_to_Refresh.git
+cd Custom_Pull_to_Refresh
 ```
 
 ### 2. Install Dependencies
